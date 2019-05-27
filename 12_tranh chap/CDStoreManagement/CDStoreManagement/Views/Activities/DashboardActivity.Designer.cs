@@ -59,14 +59,13 @@ namespace CDStoreManagement.Views.Activities
             this.welcomFragment1 = new CDStoreManagement.Views.Fragment.WelcomFragment();
             this.customerFragment1 = new CDStoreManagement.Views.Fragment.CustomerFragment();
             this.reportFragment1 = new CDStoreManagement.Views.Activities.ReportFragment();
-            this.productFragment2 = new CDStoreManagement.Views.Activities.ProductFragment();
             this.salesManagerFragment1 = new CDStoreManagement.Views.Activities.SalesManagerFragment();
             this.rulesFragment1 = new CDStoreManagement.Views.Fragment.RulesFragment();
             this.infoFragment1 = new CDStoreManagement.Views.Fragment.InfoCompanyFragment();
             this.statisticalFragment1 = new CDStoreManagement.Views.Activities.pnlSlideBar();
-            this.productFragment1 = new CDStoreManagement.Views.Activities.ProductFragment();
             this.categoryFragment1 = new CDStoreManagement.Views.Activities.CategoryFragment();
             this.accountFragment1 = new CDStoreManagement.Views.Activities.AccountFragment();
+            this.bunifuDragControl1 = new Bunifu.Framework.UI.BunifuDragControl(this.components);
             this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.bunifuImageButton1)).BeginInit();
@@ -673,15 +672,6 @@ namespace CDStoreManagement.Views.Activities
             this.reportFragment1.Size = new System.Drawing.Size(900, 614);
             this.reportFragment1.TabIndex = 9;
             // 
-            // productFragment2
-            // 
-            this.productFragment2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
-            this.productFragment2.ForeColor = System.Drawing.Color.White;
-            this.productFragment2.Location = new System.Drawing.Point(200, 47);
-            this.productFragment2.Name = "productFragment2";
-            this.productFragment2.Size = new System.Drawing.Size(900, 614);
-            this.productFragment2.TabIndex = 8;
-            // 
             // salesManagerFragment1
             // 
             this.salesManagerFragment1.Location = new System.Drawing.Point(200, 47);
@@ -710,15 +700,6 @@ namespace CDStoreManagement.Views.Activities
             this.statisticalFragment1.Size = new System.Drawing.Size(900, 614);
             this.statisticalFragment1.TabIndex = 6;
             // 
-            // productFragment1
-            // 
-            this.productFragment1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
-            this.productFragment1.ForeColor = System.Drawing.Color.White;
-            this.productFragment1.Location = new System.Drawing.Point(200, 47);
-            this.productFragment1.Name = "productFragment1";
-            this.productFragment1.Size = new System.Drawing.Size(900, 614);
-            this.productFragment1.TabIndex = 5;
-            // 
             // categoryFragment1
             // 
             this.categoryFragment1.Location = new System.Drawing.Point(200, 47);
@@ -733,6 +714,13 @@ namespace CDStoreManagement.Views.Activities
             this.accountFragment1.Size = new System.Drawing.Size(900, 614);
             this.accountFragment1.TabIndex = 2;
             // 
+            // bunifuDragControl1
+            // 
+            this.bunifuDragControl1.Fixed = true;
+            this.bunifuDragControl1.Horizontal = true;
+            this.bunifuDragControl1.TargetControl = this.panel2;
+            this.bunifuDragControl1.Vertical = true;
+            // 
             // DashboardActivity
             // 
             this.AllowDrop = true;
@@ -742,12 +730,10 @@ namespace CDStoreManagement.Views.Activities
             this.Controls.Add(this.welcomFragment1);
             this.Controls.Add(this.customerFragment1);
             this.Controls.Add(this.reportFragment1);
-            this.Controls.Add(this.productFragment2);
             this.Controls.Add(this.salesManagerFragment1);
             this.Controls.Add(this.rulesFragment1);
             this.Controls.Add(this.infoFragment1);
             this.Controls.Add(this.statisticalFragment1);
-            this.Controls.Add(this.productFragment1);
             this.Controls.Add(this.categoryFragment1);
             this.Controls.Add(this.accountFragment1);
             this.Controls.Add(this.panel2);
@@ -802,6 +788,6 @@ namespace CDStoreManagement.Views.Activities
         private ReportFragment reportFragment1;
         private ProductFragment productFragment2;
         private Fragment.WelcomFragment welcomFragment1;
-        
+        private Bunifu.Framework.UI.BunifuDragControl bunifuDragControl1;
     }
 }

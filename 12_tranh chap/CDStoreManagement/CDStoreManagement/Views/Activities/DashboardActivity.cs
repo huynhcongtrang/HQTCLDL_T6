@@ -240,9 +240,9 @@ namespace CDStoreManagement.Views.Activities
                 btnQLBH.Normalcolor = Color.FromArgb(17, 17, 17);
                 btnSP.Normalcolor = Color.FromArgb(17, 17, 17);
                 btnTK.Normalcolor = Color.FromArgb(17, 17, 17);
-                btnRules.BackColor = Color.FromArgb(17, 17, 17);
-                btnInform.BackColor = Color.FromArgb(17, 17, 17);
-                btnKHang.BackColor = Color.FromArgb(17, 17, 17);
+                btnRules.Normalcolor = Color.FromArgb(17, 17, 17);
+                btnInform.Normalcolor = Color.FromArgb(17, 17, 17);
+                btnKHang.Normalcolor = Color.FromArgb(17, 17, 17);
                 panel2.BackColor = Color.FromArgb(17, 17, 17);
             }
             else
@@ -254,9 +254,9 @@ namespace CDStoreManagement.Views.Activities
                 btnQLBH.Normalcolor = Color.FromArgb(42, 201, 173);
                 btnSP.Normalcolor = Color.FromArgb(42, 201, 173);
                 btnTK.Normalcolor = Color.FromArgb(42, 201, 173);
-                btnRules.BackColor = Color.FromArgb(42, 201, 173);
-                btnInform.BackColor = Color.FromArgb(42, 201, 173);
-                btnKHang.BackColor = Color.FromArgb(42, 201, 173);
+                btnRules.Normalcolor = Color.FromArgb(42, 201, 173);
+                btnInform.Normalcolor = Color.FromArgb(42, 201, 173);
+                btnKHang.Normalcolor = Color.FromArgb(42, 201, 173);
                 panel2.BackColor = Color.FromArgb(42, 201, 173);
             }
         }
