@@ -1,0 +1,515 @@
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe.config
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.pdb
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csprojAssemblyReference.cache
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Form1.resources
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Properties.Resources.resources
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.GenerateResource.cache
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CoreCompileInputs.cache
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.exe
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.pdb
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\bin\Debug\Bunifu_UI_v1.52.dll
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CopyComplete
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.UserControlLogin.resources
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.UserControlRegister.resources
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\bin\Debug\JImageButton.dll
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\bin\Debug\JMaterialTextbox.dll
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.DashboardActivity.resources
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.AccountFragment.resources
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.CategoryFragment.resources
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.FeedbackFragment.resources
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ProductFragment.resources
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ReportFragment.resources
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.SalesManagerFragment.resources
+D:\[cnttvn.net]NodeJS\C Shape\Project C#\Do An Thu CSDL\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.StatisticalFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe.config
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.pdb
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csprojAssemblyReference.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.DashboardActivity.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Form1.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Properties.Resources.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.AccountFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.CategoryFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.FeedbackFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ProductFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ReportFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.SalesManagerFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.StatisticalFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.UserControlLogin.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.UserControlRegister.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.GenerateResource.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CopyComplete
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.exe
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.pdb
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe.config
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.pdb
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\Bunifu_UI_v1.52.dll
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\JImageButton.dll
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\JMaterialTextbox.dll
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.DashboardActivity.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Form1.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Properties.Resources.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.AccountFragment.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.CategoryFragment.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.FeedbackFragment.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ProductFragment.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ReportFragment.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.SalesManagerFragment.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.StatisticalFragment.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.UserControlLogin.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.UserControlRegister.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.GenerateResource.cache
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CoreCompileInputs.cache
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CopyComplete
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.exe
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.pdb
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.Dialog.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.ProgressDialogFragment.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.dll
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\FlatButton.dll
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\MaterialSkin.dll
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.xml
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csprojAssemblyReference.cache
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionInsert.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionUpdate.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe.config
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.pdb
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.dll
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\bin\Debug\MaterialSkin.dll
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.xml
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csprojAssemblyReference.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionInsert.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.Dialog.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionUpdate.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.DashboardActivity.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Form1.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Properties.Resources.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.AccountFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.CategoryFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.FeedbackFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ProductFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.ProgressDialogFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ReportFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.SalesManagerFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.StatisticalFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.UserControlLogin.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.UserControlRegister.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.GenerateResource.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CopyComplete
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.exe
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\3\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.pdb
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csprojAssemblyReference.cache
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionInsert.resources
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.Dialog.resources
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionUpdate.resources
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.DashboardActivity.resources
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Properties.Resources.resources
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.AccountFragment.resources
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.CategoryFragment.resources
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.FeedbackFragment.resources
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ProductFragment.resources
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.ProgressDialogFragment.resources
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ReportFragment.resources
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.SalesManagerFragment.resources
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.StatisticalFragment.resources
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.GenerateResource.cache
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.exe
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.pdb
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe.config
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.pdb
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.dll
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\FlatButton.dll
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\JImageButton.dll
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\JMaterialTextbox.dll
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\MaterialSkin.dll
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.xml
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CopyComplete
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionInsertCatelog.resources
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionUpdateCatelog.resources
+C:\Users\franc\Downloads\Compressed\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.form1.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe.config
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.pdb
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.dll
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\bin\Debug\MaterialSkin.dll
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.xml
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csprojAssemblyReference.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionInsertCatelog.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionUpdateCatelog.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionInsert.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.Dialog.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionUpdate.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.DashboardActivity.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.form1.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Properties.Resources.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.AccountFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.CategoryFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.FeedbackFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ProductFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.ProgressDialogFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ReportFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.SalesManagerFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.StatisticalFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.GenerateResource.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CopyComplete
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.exe
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\5\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.pdb
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe.config
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.pdb
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\bin\Debug\Bunifu_UI_v1.52.dll
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.dll
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\bin\Debug\FlatButton.dll
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\bin\Debug\JImageButton.dll
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\bin\Debug\JMaterialTextbox.dll
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\bin\Debug\MaterialSkin.dll
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.xml
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csprojAssemblyReference.cache
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionInsertCatelog.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionUpdateCatelog.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionInsert.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.Dialog.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionUpdate.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.DashboardActivity.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.form1.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Properties.Resources.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.AccountFragment.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.CategoryFragment.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.FeedbackFragment.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ProductFragment.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.ProgressDialogFragment.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ReportFragment.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.SalesManagerFragment.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.StatisticalFragment.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.GenerateResource.cache
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CoreCompileInputs.cache
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CopyComplete
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.exe
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.pdb
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionInsert.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionUpdate.resources
+D:\[cnttvn.net]NodeJS\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionUpdateAdmin.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe.config
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.pdb
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.dll
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\bin\Debug\MaterialSkin.dll
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.xml
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csprojAssemblyReference.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionInsertCatelog.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionUpdateCatelog.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionInsert.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionUpdate.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionUpdateAdmin.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionInsert.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.Dialog.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionUpdate.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.DashboardActivity.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.form1.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Properties.Resources.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.AccountFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.CategoryFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ProductFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.ProgressDialogFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ReportFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.SalesManagerFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.StatisticalFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.GenerateResource.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CopyComplete
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.exe
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\6\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.pdb
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe.config
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.pdb
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.dll
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\bin\Debug\FlatButton.dll
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\bin\Debug\JImageButton.dll
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\bin\Debug\JMaterialTextbox.dll
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\bin\Debug\MaterialSkin.dll
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.xml
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionInsertCatelog.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionUpdateCatelog.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionInsert.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionUpdate.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionUpdateAdmin.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionInsert.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.Dialog.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionUpdate.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.DashboardActivity.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.form1.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Properties.Resources.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.AccountFragment.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.CategoryFragment.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ProductFragment.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.ProgressDialogFragment.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ReportFragment.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.SalesManagerFragment.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CopyComplete
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.exe
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.pdb
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.pnlSlideBar.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CustomerFunction.ShowFunctionInsertCustomer.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CustomerFunction.ShowFunctionUpdateCustomer.resources
+C:\Users\franc\Desktop\Project\1\CDStoreManagement_2\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.CustomerFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe.config
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.pdb
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.dll
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\MaterialSkin.dll
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.xml
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csprojAssemblyReference.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CalendarEvent.EventNotificationInsert.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionInsertCatelog.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionUpdateCatelog.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CustomerFunction.ShowFunctionInsertCustomer.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CustomerFunction.ShowFunctionUpdateCustomer.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.PersonalDetails.Personal.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionInsert.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionUpdate.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionUpdateAdmin.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionInsert.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.Dialog.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionUpdate.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.DashboardActivity.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.form1.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Properties.Resources.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.AccountFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.CategoryFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.CustomerFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ProductFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.ProgressDialogFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ReportFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.SalesManagerFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.pnlSlideBar.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.WelcomFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.GenerateResource.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CopyComplete
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.exe
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\9\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.pdb
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe.config
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.pdb
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.dll
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\FlatButton.dll
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\JImageButton.dll
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\JMaterialTextbox.dll
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\MaterialSkin.dll
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.xml
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csprojAssemblyReference.cache
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CalendarEvent.EventNotificationInsert.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionInsertCatelog.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionUpdateCatelog.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CustomerFunction.ShowFunctionInsertCustomer.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CustomerFunction.ShowFunctionUpdateCustomer.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.PersonalDetails.Personal.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SalesFunction.ShowFunctionRent.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SalesFunction.ShowFunctionSaleContinue.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SalesFunction.ShowFunctionSaleInsert.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionInsert.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionUpdate.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionUpdateAdmin.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionInsert.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.Dialog.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionUpdate.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.DashboardActivity.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.form1.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Properties.Resources.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.AccountFragment.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.CategoryFragment.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.CustomerFragment.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ProductFragment.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.ProgressDialogFragment.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ReportFragment.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.SalesManagerFragment.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.pnlSlideBar.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.WelcomFragment.resources
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.GenerateResource.cache
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CoreCompileInputs.cache
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CopyComplete
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.exe
+D:\[cnttvn.net]NodeJS\phim\CDStoreManagement\CDStoreManagement\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.pdb
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe.config
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.pdb
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.dll
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\bin\Debug\MaterialSkin.dll
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.xml
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csprojAssemblyReference.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CalendarEvent.EventNotificationInsert.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionInsertCatelog.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionUpdateCatelog.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CustomerFunction.ShowFunctionInsertCustomer.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CustomerFunction.ShowFunctionUpdateCustomer.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.PersonalDetails.Personal.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SalesFunction.ShowFunctionRent.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionInsert.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionUpdate.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionUpdateAdmin.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionInsert.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.Dialog.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionUpdate.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.DashboardActivity.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.form1.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Properties.Resources.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.AccountFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.CategoryFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.CustomerFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ProductFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.ProgressDialogFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ReportFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.SalesManagerFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.pnlSlideBar.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.WelcomFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.GenerateResource.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CopyComplete
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.exe
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.pdb
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SalesFunction.ShowInputTotal.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SalesFunction.EditTotalInput.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.UpdateSaleFunction.ShowFunctionUpdateTransaction.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.UpdateSaleFunction.EditTotalInput2.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SalesFunction.ShowInputTotal2.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.DetailTransaction.DetailTransaction.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.PayProductOfTransaction.PayProduct.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.PayProductOfTransaction.InputDamage.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SurveyChange.FunctionSurveyChange.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SurveyChange.InputChangeSurvey.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ProductFunction.ShowFunctionDetailProduct.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.StatisticaFunction.DetailStatisticalMonth.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.ResolveComReference.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.RulesFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.RulesFunction.RuleBuyFunction.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.RulesFunction.RuleHireFunction.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ControlBoxFunction.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.InfoCompanyFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.InfoStore.EditInfoStore.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\10\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.AccountFunction.ChangePasswordFunction.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe.config
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.pdb
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.dll
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\bin\Debug\MaterialSkin.dll
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.xml
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csprojAssemblyReference.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.ResolveComReference.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.AccountFunction.ChangePasswordFunction.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CalendarEvent.EventNotificationInsert.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionInsertCatelog.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionUpdateCatelog.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ControlBoxFunction.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CustomerFunction.ShowFunctionInsertCustomer.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CustomerFunction.ShowFunctionUpdateCustomer.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.DetailTransaction.DetailTransaction.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.InfoStore.EditInfoStore.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.PayProductOfTransaction.InputDamage.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.PayProductOfTransaction.PayProduct.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.PersonalDetails.Personal.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ProductFunction.ShowFunctionDetailProduct.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.RulesFunction.RuleBuyFunction.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.RulesFunction.RuleHireFunction.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SalesFunction.EditTotalInput.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SalesFunction.ShowFunctionRent.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SalesFunction.ShowInputTotal.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.StatisticaFunction.DetailStatisticalMonth.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SurveyChange.FunctionSurveyChange.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SurveyChange.InputChangeSurvey.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.UpdateSaleFunction.EditTotalInput2.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.UpdateSaleFunction.ShowFunctionUpdateTransaction.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SalesFunction.ShowInputTotal2.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionInsert.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionUpdate.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionUpdateAdmin.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionInsert.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.Dialog.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionUpdate.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.DashboardActivity.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.form1.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Properties.Resources.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.AccountFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.CategoryFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.CustomerFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.InfoCompanyFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ProductFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.ProgressDialogFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ReportFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.RulesFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.SalesManagerFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.pnlSlideBar.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.WelcomFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.GenerateResource.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CopyComplete
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.exe
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\11\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.pdb
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe.config
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.exe
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\bin\Debug\CDStoreManagement.pdb
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.dll
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\bin\Debug\MaterialSkin.dll
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\bin\Debug\Dapper.xml
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csprojAssemblyReference.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.ResolveComReference.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.AccountFunction.ChangePasswordFunction.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CalendarEvent.EventNotificationInsert.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionInsertCatelog.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CatelogFunction.ShowFunctionUpdateCatelog.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ControlBoxFunction.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CustomerFunction.ShowFunctionInsertCustomer.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.CustomerFunction.ShowFunctionUpdateCustomer.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.DetailTransaction.DetailTransaction.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.InfoStore.EditInfoStore.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.PayProductOfTransaction.InputDamage.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.PayProductOfTransaction.PayProduct.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.PersonalDetails.Personal.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ProductFunction.ShowFunctionDetailProduct.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.RulesFunction.RuleBuyFunction.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.RulesFunction.RuleHireFunction.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SalesFunction.EditTotalInput.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SalesFunction.ShowFunctionRent.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SalesFunction.ShowInputTotal.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.StatisticaFunction.DetailStatisticalMonth.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SurveyChange.FunctionSurveyChange.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SurveyChange.InputChangeSurvey.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.UpdateSaleFunction.EditTotalInput2.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.UpdateSaleFunction.ShowFunctionUpdateTransaction.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.SalesFunction.ShowInputTotal2.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionInsert.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionUpdate.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.EmplyeeFunction.ShowFunctionUpdateAdmin.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionInsert.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.Dialog.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Utils.ShowFunctionUpdate.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.DashboardActivity.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.form1.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Properties.Resources.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.AccountFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.CategoryFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.CustomerFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.InfoCompanyFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ProductFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.ProgressDialogFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.ReportFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.RulesFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.SalesManagerFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Activities.pnlSlideBar.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.Views.Fragment.WelcomFragment.resources
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.GenerateResource.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.csproj.CopyComplete
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.exe
+C:\Users\meohu\OneDrive\Máy tính\ProjectT6\12_tranh chap\CDStoreManagement\CDStoreManagement\obj\Debug\CDStoreManagement.pdb

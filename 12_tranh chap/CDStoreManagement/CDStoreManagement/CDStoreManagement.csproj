@@ -1,0 +1,880 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{01936C5E-5583-48EA-842A-65041EE45B19}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CDStoreManagement</RootNamespace>
+    <AssemblyName>CDStoreManagement</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>C:\Users\franc\Downloads\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="Dapper, Version=1.60.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.1.60.1\lib\net451\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="FlatButton">
+      <HintPath>C:\Users\franc\Downloads\Compressed\JControls-20190301T154449Z-001\JControls\JControls\FlatButton.dll</HintPath>
+    </Reference>
+    <Reference Include="JImageButton">
+      <HintPath>C:\Users\franc\Downloads\Compressed\JControls-20190301T154449Z-001\JControls\JControls\JImageButton.dll</HintPath>
+    </Reference>
+    <Reference Include="JMaterialTextbox">
+      <HintPath>C:\Users\franc\Downloads\Compressed\JControls-20190301T154449Z-001\JControls\JControls\JMaterialTextbox.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.Updated.0.2.2\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\Common1.cs" />
+    <Compile Include="Common\HandleFile.cs" />
+    <Compile Include="Common\Item.cs" />
+    <Compile Include="Common\ItemReview.cs" />
+    <Compile Include="Controllers\BuyControler.cs" />
+    <Compile Include="Controllers\CatalogControler.cs" />
+    <Compile Include="Controllers\CustomerControler.cs" />
+    <Compile Include="Controllers\DataProvider.cs" />
+    <Compile Include="Controllers\EventControler.cs" />
+    <Compile Include="Controllers\HireControler.cs" />
+    <Compile Include="Controllers\InFoCompanyControler.cs" />
+    <Compile Include="Controllers\ProductControler.cs" />
+    <Compile Include="Controllers\ReportControler.cs" />
+    <Compile Include="Controllers\RuleBuyControler.cs" />
+    <Compile Include="Controllers\RuleHireControler.cs" />
+    <Compile Include="Controllers\StaticticalControler.cs" />
+    <Compile Include="Controllers\TransactionControler.cs" />
+    <Compile Include="Controllers\TransactionDetailControler.cs" />
+    <Compile Include="Controllers\UserControler.cs" />
+    <Compile Include="Models\Buy.cs" />
+    <Compile Include="Models\Catalog.cs" />
+    <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\Event.cs" />
+    <Compile Include="Models\Hire.cs" />
+    <Compile Include="Models\Info_store.cs" />
+    <Compile Include="Models\Product.cs" />
+    <Compile Include="Models\Rule_buy.cs" />
+    <Compile Include="Models\Rule_hire.cs" />
+    <Compile Include="Models\Transaction.cs" />
+    <Compile Include="Models\TransactionaDetail.cs" />
+    <Compile Include="Models\User.cs" />
+    <Compile Include="Utils\AccountFunction\ChangePasswordFunction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\AccountFunction\ChangePasswordFunction.Designer.cs">
+      <DependentUpon>ChangePasswordFunction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\CalendarEvent\EventNotificationInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\CalendarEvent\EventNotificationInsert.Designer.cs">
+      <DependentUpon>EventNotificationInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\CatelogFunction\ShowFunctionInsertCatelog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\CatelogFunction\ShowFunctionInsertCatelog.Designer.cs">
+      <DependentUpon>ShowFunctionInsertCatelog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\CatelogFunction\ShowFunctionUpdateCatelog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\CatelogFunction\ShowFunctionUpdateCatelog.Designer.cs">
+      <DependentUpon>ShowFunctionUpdateCatelog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\CircleImageBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Utils\CircleImageBox.Designer.cs">
+      <DependentUpon>CircleImageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\ControlBoxFunction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\ControlBoxFunction.Designer.cs">
+      <DependentUpon>ControlBoxFunction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\CustomerFunction\ShowFunctionInsertCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\CustomerFunction\ShowFunctionInsertCustomer.Designer.cs">
+      <DependentUpon>ShowFunctionInsertCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\CustomerFunction\ShowFunctionUpdateCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\CustomerFunction\ShowFunctionUpdateCustomer.Designer.cs">
+      <DependentUpon>ShowFunctionUpdateCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\DetailTransaction\DetailTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\DetailTransaction\DetailTransaction.Designer.cs">
+      <DependentUpon>DetailTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\InfoStore\EditInfoStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\InfoStore\EditInfoStore.Designer.cs">
+      <DependentUpon>EditInfoStore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\ModeExcelORPDF.cs" />
+    <Compile Include="Utils\PayProductOfTransaction\InputDamage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\PayProductOfTransaction\InputDamage.Designer.cs">
+      <DependentUpon>InputDamage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\PayProductOfTransaction\PayProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\PayProductOfTransaction\PayProduct.Designer.cs">
+      <DependentUpon>PayProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\PersonalDetails\Personal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\PersonalDetails\Personal.Designer.cs">
+      <DependentUpon>Personal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\ProductFunction\ShowFunctionDetailProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\ProductFunction\ShowFunctionDetailProduct.Designer.cs">
+      <DependentUpon>ShowFunctionDetailProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\RulesFunction\RuleBuyFunction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\RulesFunction\RuleBuyFunction.Designer.cs">
+      <DependentUpon>RuleBuyFunction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\RulesFunction\RuleHireFunction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\RulesFunction\RuleHireFunction.Designer.cs">
+      <DependentUpon>RuleHireFunction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\SalesFunction\EditTotalInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\SalesFunction\EditTotalInput.Designer.cs">
+      <DependentUpon>EditTotalInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\SalesFunction\ShowFunctionRent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\SalesFunction\ShowFunctionRent.Designer.cs">
+      <DependentUpon>ShowFunctionRent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\SalesFunction\ShowInputTotal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\SalesFunction\ShowInputTotal.Designer.cs">
+      <DependentUpon>ShowInputTotal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\StatisticaFunction\DetailStatisticalMonth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\StatisticaFunction\DetailStatisticalMonth.Designer.cs">
+      <DependentUpon>DetailStatisticalMonth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\SurveyChange\FunctionSurveyChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\SurveyChange\FunctionSurveyChange.Designer.cs">
+      <DependentUpon>FunctionSurveyChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\SurveyChange\InputChangeSurvey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\SurveyChange\InputChangeSurvey.Designer.cs">
+      <DependentUpon>InputChangeSurvey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\SurveyChange\ItemSurvey.cs" />
+    <Compile Include="Utils\UpdateSaleFunction\EditTotalInput2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\UpdateSaleFunction\EditTotalInput2.Designer.cs">
+      <DependentUpon>EditTotalInput2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\UpdateSaleFunction\ShowFunctionUpdateTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\UpdateSaleFunction\ShowFunctionUpdateTransaction.Designer.cs">
+      <DependentUpon>ShowFunctionUpdateTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\UpdateSaleFunction\ShowInputTotal2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\UpdateSaleFunction\ShowInputTotal2.Designer.cs">
+      <DependentUpon>ShowInputTotal2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\UserFunction\ShowFunctionInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\UserFunction\ShowFunctionInsert.Designer.cs">
+      <DependentUpon>ShowFunctionInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\UserFunction\ShowFunctionUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\UserFunction\ShowFunctionUpdate.Designer.cs">
+      <DependentUpon>ShowFunctionUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\UserFunction\ShowFunctionUpdateAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\UserFunction\ShowFunctionUpdateAdmin.Designer.cs">
+      <DependentUpon>ShowFunctionUpdateAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\ProductFunction\ShowFunctionInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\ProductFunction\ShowFunctionInsert.Designer.cs">
+      <DependentUpon>ShowFunctionInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\Dialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\Dialog.Designer.cs">
+      <DependentUpon>Dialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\EncryptedPassword.cs" />
+    <Compile Include="Utils\ProductFunction\ShowFunctionUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\ProductFunction\ShowFunctionUpdate.Designer.cs">
+      <DependentUpon>ShowFunctionUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fragment\AccountFragment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Fragment\AccountFragment.Designer.cs">
+      <DependentUpon>AccountFragment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fragment\CategoryFragment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Fragment\CategoryFragment.Designer.cs">
+      <DependentUpon>CategoryFragment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Activities\DashboardActivity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Activities\DashboardActivity.Designer.cs">
+      <DependentUpon>DashboardActivity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Activities\LoginAndRegisterActivity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Activities\LoginAndRegisterActivity.Designer.cs">
+      <DependentUpon>LoginAndRegisterActivity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\Fragment\CustomerFragment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Fragment\CustomerFragment.Designer.cs">
+      <DependentUpon>CustomerFragment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fragment\InfoCompanyFragment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Fragment\InfoCompanyFragment.Designer.cs">
+      <DependentUpon>InfoCompanyFragment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fragment\ProductFragment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Fragment\ProductFragment.Designer.cs">
+      <DependentUpon>ProductFragment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fragment\ProgressDialogFragment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Fragment\ProgressDialogFragment.Designer.cs">
+      <DependentUpon>ProgressDialogFragment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fragment\ReportFragment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Fragment\ReportFragment.Designer.cs">
+      <DependentUpon>ReportFragment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fragment\RulesFragment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Fragment\RulesFragment.Designer.cs">
+      <DependentUpon>RulesFragment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fragment\SalesManagerFragment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Fragment\SalesManagerFragment.Designer.cs">
+      <DependentUpon>SalesManagerFragment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fragment\StatisticalFragment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Fragment\StatisticalFragment.Designer.cs">
+      <DependentUpon>StatisticalFragment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Fragment\WelcomFragment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Fragment\WelcomFragment.Designer.cs">
+      <DependentUpon>WelcomFragment.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Utils\AccountFunction\ChangePasswordFunction.resx">
+      <DependentUpon>ChangePasswordFunction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\CalendarEvent\EventNotificationInsert.resx">
+      <DependentUpon>EventNotificationInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\CatelogFunction\ShowFunctionInsertCatelog.resx">
+      <DependentUpon>ShowFunctionInsertCatelog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\CatelogFunction\ShowFunctionUpdateCatelog.resx">
+      <DependentUpon>ShowFunctionUpdateCatelog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\ControlBoxFunction.resx">
+      <DependentUpon>ControlBoxFunction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\CustomerFunction\ShowFunctionInsertCustomer.resx">
+      <DependentUpon>ShowFunctionInsertCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\CustomerFunction\ShowFunctionUpdateCustomer.resx">
+      <DependentUpon>ShowFunctionUpdateCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\DetailTransaction\DetailTransaction.resx">
+      <DependentUpon>DetailTransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\InfoStore\EditInfoStore.resx">
+      <DependentUpon>EditInfoStore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\PayProductOfTransaction\InputDamage.resx">
+      <DependentUpon>InputDamage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\PayProductOfTransaction\PayProduct.resx">
+      <DependentUpon>PayProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\PersonalDetails\Personal.resx">
+      <DependentUpon>Personal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\ProductFunction\ShowFunctionDetailProduct.resx">
+      <DependentUpon>ShowFunctionDetailProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\RulesFunction\RuleBuyFunction.resx">
+      <DependentUpon>RuleBuyFunction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\RulesFunction\RuleHireFunction.resx">
+      <DependentUpon>RuleHireFunction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\SalesFunction\EditTotalInput.resx">
+      <DependentUpon>EditTotalInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\SalesFunction\ShowFunctionRent.resx">
+      <DependentUpon>ShowFunctionRent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\SalesFunction\ShowInputTotal.resx">
+      <DependentUpon>ShowInputTotal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\StatisticaFunction\DetailStatisticalMonth.resx">
+      <DependentUpon>DetailStatisticalMonth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\SurveyChange\FunctionSurveyChange.resx">
+      <DependentUpon>FunctionSurveyChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\SurveyChange\InputChangeSurvey.resx">
+      <DependentUpon>InputChangeSurvey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\UpdateSaleFunction\EditTotalInput2.resx">
+      <DependentUpon>EditTotalInput2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\UpdateSaleFunction\ShowFunctionUpdateTransaction.resx">
+      <DependentUpon>ShowFunctionUpdateTransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\UpdateSaleFunction\ShowInputTotal2.resx">
+      <DependentUpon>ShowInputTotal2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\UserFunction\ShowFunctionInsert.resx">
+      <DependentUpon>ShowFunctionInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\UserFunction\ShowFunctionUpdate.resx">
+      <DependentUpon>ShowFunctionUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\UserFunction\ShowFunctionUpdateAdmin.resx">
+      <DependentUpon>ShowFunctionUpdateAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\ProductFunction\ShowFunctionInsert.resx">
+      <DependentUpon>ShowFunctionInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\Dialog.resx">
+      <DependentUpon>Dialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\ProductFunction\ShowFunctionUpdate.resx">
+      <DependentUpon>ShowFunctionUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Activities\DashboardActivity.resx">
+      <DependentUpon>DashboardActivity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Activities\LoginAndRegisterActivity.resx">
+      <DependentUpon>LoginAndRegisterActivity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Views\Fragment\AccountFragment.resx">
+      <DependentUpon>AccountFragment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fragment\CategoryFragment.resx">
+      <DependentUpon>CategoryFragment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fragment\CustomerFragment.resx">
+      <DependentUpon>CustomerFragment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fragment\InfoCompanyFragment.resx">
+      <DependentUpon>InfoCompanyFragment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fragment\ProductFragment.resx">
+      <DependentUpon>ProductFragment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fragment\ProgressDialogFragment.resx">
+      <DependentUpon>ProgressDialogFragment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fragment\ReportFragment.resx">
+      <DependentUpon>ReportFragment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fragment\RulesFragment.resx">
+      <DependentUpon>RulesFragment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fragment\SalesManagerFragment.resx">
+      <DependentUpon>SalesManagerFragment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fragment\StatisticalFragment.resx">
+      <DependentUpon>StatisticalFragment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Fragment\WelcomFragment.resx">
+      <DependentUpon>WelcomFragment.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\naviagation.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-user-male-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-password-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game-developer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer-support.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\knight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\710ae7dcc8f298d9ee183fecce837361.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-facebook-like-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-facebook-like-641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-github-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bcce1bcef5bbac5b3d5f147fe0ba3cda.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cash-register-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-statistics-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-fund-accounting-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-product-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-opened-folder-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-feedback-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-increasing-graph-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-menu-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cash-register-641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-exit-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-google-web-search-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-search-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-browser-history-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-grid-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-todo-list-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-new-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-edit-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cancel-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addProduct1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-delete-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-minimize-window-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\43515966_1027134844132317_8690628609901068288_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-calendar-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-view-details-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-edit-641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-synchronize-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-calendar-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-today-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-firework-explosion-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-today-1001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-pos-terminal-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-pos-terminal-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-note-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-customer-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-info-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-rules-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-checked-checkbox-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-checked-checkbox-501.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-green-check-mark-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnInsert.Iconimage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-fill-color-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-result-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-plus-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-more-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-more-641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-phone-message-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg-01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg-011.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg-012.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg-013.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-addition-symbol-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-note-641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-plus-641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-paycheque-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cycle-arrows-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-view-details-641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-buy-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-rent-64 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-plus-642.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-save-as-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-save-as-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-save-as-481.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-split-transaction-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-split-transaction-641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transaction-basics-icon%402x-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transactions_image-1024x574.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-send-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-plus-math-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-coupon-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-deposit-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-permanent-job-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-available-updates-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PRODUCT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PRODUCT1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1000-icon-facebook-900x500.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1000-icon-facebook-900x5001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-pass-fail-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GetArticleImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\586_9-nguyen-tac-vang-khi-mua-hang-online-mua-giang-sinh-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Catalog-example.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-transfer-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-undo-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5d8image-1475657664165.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quy-dinh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D20B9CA7-B013-40BC-8F02-5B874158CCCF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-ruler-pencil-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-sort-down-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-sort-down-641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abcde.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\company-landscape.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shejiyeiconrnm1hmn1udt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnAddCatalog.Iconimage.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
